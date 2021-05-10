@@ -9,6 +9,13 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
+        <footer>
+          {" "}
+          Open-sorced code on {""}
+          <a href="https://github.com/KristynaCharova/react-dictionary-app">
+            Github
+          </a>
+        </footer>
       </div>
     </div>
   );
