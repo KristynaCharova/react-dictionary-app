@@ -9,12 +9,14 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="Dictionary" />
         </main>
-        <footer>
+        <footer className="App-footer">
           {" "}
-          Open-sorced code on {""}
+          This project was coded by Kristyna Charova and is open-sorced on {""}
           <a href="https://github.com/KristynaCharova/react-dictionary-app">
             Github
-          </a>
+          </a>{" "}
+          and hosted on{" "}
+          <a href="https://sad-jackson-4b82b2.netlify.app/">Netlify</a>
         </footer>
       </div>
     </div>

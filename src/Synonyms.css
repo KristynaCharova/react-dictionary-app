@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+.Synonyms ul {
+  padding-left: 0px;
+}
+
 .Synonyms li {
   font-size: 13px;
   display: inline-block;
