@@ -14,6 +14,11 @@
 }
 
 .Phonetic a:hover {
-  background: rgb(31, 30, 29);
+  background: rgb(149, 85, 185);
   color: white;
+}
+
+.Phonetic .text {
+  opacity: 0.5;
+  font-weight: bold;
 }
