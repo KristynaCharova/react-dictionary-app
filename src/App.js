@@ -12,11 +12,21 @@ export default function App() {
         <footer className="App-footer">
           {" "}
           This project was coded by Kristyna Charova and is open-sorced on {""}
-          <a href="https://github.com/KristynaCharova/react-dictionary-app">
+          <a
+            href="https://github.com/KristynaCharova/react-dictionary-app"
+            target="_blank"
+            rel="noreferrer"
+          >
             Github
           </a>{" "}
           and hosted on{" "}
-          <a href="https://sad-jackson-4b82b2.netlify.app/">Netlify</a>
+          <a
+            href="https://sad-jackson-4b82b2.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
+          </a>
         </footer>
       </div>
     </div>
